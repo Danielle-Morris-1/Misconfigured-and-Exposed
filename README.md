@@ -14,7 +14,7 @@ During routine maintenance, the security team is assigned to review virtual mach
 * Microsoft Sentinel: Cloud-native SIEM solution for threat detection and response.
 * Windows 10 Virtual Machines (Microsoft Azure): Cloud-based virtual machines for testing and analysis.
 * Microsoft Defender for Endpoint: Endpoint Detection and Response (EDR) platform for endpoint security monitoring.
-* Kusto Query Language (KQL): Query language used for data analysis and threat hunting in Microsoft Sentinel.
+* Kusto Query Language (KQL): Query language used for data analysis and threat hunting.
 
 ---
 
