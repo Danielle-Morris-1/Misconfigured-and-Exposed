@@ -5,7 +5,7 @@
 
 During routine maintenance, the security team is assigned to review virtual machines within the shared services cluster (which handles network services such as DNS, Domain Services, and DHCP) that were mistakenly exposed to the public internet. The goal is to identify any VMs that may have been misconfigured and check for brute-force login activity or unauthorized access originating from external IP addresses.
 
-![image](https://github.com/user-attachments/assets/7c9201da-d5b8-4f59-a342-0762d31bc946)
+![image](https://github.com/user-attachments/assets/93a41430-644c-4407-928c-f07a8cce1e14)
 
 ---
 
@@ -227,9 +227,10 @@ Reviewed exposure details for `windows-target-1`, confirmed no unauthorized logi
 | 1.0     | Initial draft | May 2025   | Danielle Morris  |
 
 ---
+## 🚀 Project Status
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)  ![Focus](https://img.shields.io/badge/Focus-Threat%20Hunting-blue)  ![Platform](https://img.shields.io/badge/Platform-Microsoft%20Defender-blueviolet)  ![Language](https://img.shields.io/badge/Scripting-KQL-yellow)
 
 ---
-> *"Vulnerabilities don’t compromise systems—humans ignoring them do."*
+>  ⚠️ *"Vulnerabilities don’t compromise systems—humans ignoring them do."*
 
